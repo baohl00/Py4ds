@@ -1,0 +1,1101 @@
+Player,Market_value(m),Position,Age,Nationality,Club
+Harry Kane ,120.0,"
+
+
+ 
+
+Harry Kane 
+
+
+Centre-Forward
+
+",28,England,Tottenham Hotspur
+Kevin De Bruyne ,100.0,"
+
+
+ 
+
+Kevin De Bruyne 
+
+
+Attacking Midfield
+
+",30,Belgium,Manchester City
+Jack Grealish ,100.0,"
+
+
+ 
+
+Jack Grealish 
+
+
+Left Winger
+
+",26,England,Manchester City
+Mohamed Salah ,100.0,"
+
+
+ 
+
+Mohamed Salah 
+
+
+Right Winger
+
+",29,Egypt,Liverpool FC
+Romelu Lukaku ,100.0,"
+
+
+ 
+
+Romelu Lukaku 
+
+
+Centre-Forward
+
+",28,Belgium,Chelsea FC
+Bruno Fernandes ,90.0,"
+
+
+ 
+
+Bruno Fernandes 
+
+
+Attacking Midfield
+
+",27,Portugal,Manchester United
+Raheem Sterling ,90.0,"
+
+
+ 
+
+Raheem Sterling 
+
+
+Left Winger
+
+",27,England,Manchester City
+Jadon Sancho ,90.0,"
+
+
+ 
+
+Jadon Sancho 
+
+
+Left Winger
+
+",21,England,Manchester United
+Sadio Mané ,85.0,"
+
+
+ 
+
+Sadio Mané 
+
+
+Left Winger
+
+",29,Senegal,Liverpool FC
+Marcus Rashford ,85.0,"
+
+
+ 
+
+Marcus Rashford 
+
+
+Left Winger
+
+",24,England,Manchester United
+Heung-min Son ,85.0,"
+
+
+ 
+
+Heung-min Son 
+
+
+Left Winger
+
+",29,"Korea, South",Tottenham Hotspur
+Phil Foden ,80.0,"
+
+
+ 
+
+Phil Foden 
+
+
+Central Midfield
+
+",21,England,Manchester City
+Trent Alexander-Arnold ,75.0,"
+
+
+ 
+
+Trent Alexander-Arnold 
+
+
+Right-Back
+
+",23,England,Liverpool FC
+Rúben Dias ,75.0,"
+
+
+ 
+
+Rúben Dias 
+
+
+Centre-Back
+
+",24,Portugal,Manchester City
+Mason Mount ,75.0,"
+
+
+ 
+
+Mason Mount 
+
+
+Attacking Midfield
+
+",22,England,Chelsea FC
+Bernardo Silva ,70.0,"
+
+
+ 
+
+Bernardo Silva 
+
+
+Attacking Midfield
+
+",27,Portugal,Manchester City
+Raphaël Varane ,70.0,"
+
+
+ 
+
+Raphaël Varane 
+
+
+Centre-Back
+
+",28,France,Manchester United
+Kai Havertz ,70.0,"
+
+
+ 
+
+Kai Havertz 
+
+
+Attacking Midfield
+
+",22,Germany,Chelsea FC
+Rodri ,70.0,"
+
+
+ 
+
+Rodri 
+
+
+Defensive Midfield
+
+",25,Spain,Manchester City
+Declan Rice ,70.0,"
+
+
+ 
+
+Declan Rice 
+
+
+Defensive Midfield
+
+",22,England,West Ham United
+Bukayo Saka ,65.0,"
+
+
+ 
+
+Bukayo Saka 
+
+
+Left Midfield
+
+",20,England,Arsenal FC
+Andrew Robertson ,65.0,"
+
+
+ 
+
+Andrew Robertson 
+
+
+Left-Back
+
+",27,Scotland,Liverpool FC
+Alisson ,60.0,"
+
+
+ 
+
+Alisson 
+
+
+Goalkeeper
+
+",29,Brazil,Liverpool FC
+Fabinho ,60.0,"
+
+
+ 
+
+Fabinho 
+
+
+Defensive Midfield
+
+",28,Brazil,Liverpool FC
+Gabriel Jesus ,60.0,"
+
+
+ 
+
+Gabriel Jesus 
+
+
+Centre-Forward
+
+",24,Brazil,Manchester City
+Paul Pogba ,60.0,"
+
+
+ 
+
+Paul Pogba 
+
+
+Central Midfield
+
+",28,France,Manchester United
+Wilfred Ndidi ,60.0,"
+
+
+ 
+
+Wilfred Ndidi 
+
+
+Defensive Midfield
+
+",25,Nigeria,Leicester City
+N'Golo Kanté ,55.0,"
+
+
+ 
+
+N'Golo Kanté 
+
+
+Defensive Midfield
+
+",30,France,Chelsea FC
+João Cancelo ,55.0,"
+
+
+ 
+
+João Cancelo 
+
+
+Right-Back
+
+",27,Portugal,Manchester City
+Virgil van Dijk ,55.0,"
+
+
+ 
+
+Virgil van Dijk 
+
+
+Centre-Back
+
+",30,Netherlands,Liverpool FC
+Youri Tielemans ,55.0,"
+
+
+ 
+
+Youri Tielemans 
+
+
+Central Midfield
+
+",24,Belgium,Leicester City
+Richarlison ,55.0,"
+
+
+ 
+
+Richarlison 
+
+
+Centre-Forward
+
+",24,Brazil,Everton FC
+Timo Werner ,55.0,"
+
+
+ 
+
+Timo Werner 
+
+
+Centre-Forward
+
+",25,Germany,Chelsea FC
+James Maddison ,50.0,"
+
+
+ 
+
+James Maddison 
+
+
+Attacking Midfield
+
+",25,England,Leicester City
+Harry Maguire ,50.0,"
+
+
+ 
+
+Harry Maguire 
+
+
+Centre-Back
+
+",28,England,Manchester United
+Christian Pulisic ,50.0,"
+
+
+ 
+
+Christian Pulisic 
+
+
+Right Winger
+
+",23,United States,Chelsea FC
+Ferran Torres ,50.0,"
+
+
+ 
+
+Ferran Torres 
+
+
+Right Winger
+
+",21,Spain,Manchester City
+Mason Greenwood ,50.0,"
+
+
+ 
+
+Mason Greenwood 
+
+
+Right Winger
+
+",20,England,Manchester United
+Ederson ,50.0,"
+
+
+ 
+
+Ederson 
+
+
+Goalkeeper
+
+",28,Brazil,Manchester City
+Jorginho ,45.0,"
+
+
+ 
+
+Jorginho 
+
+
+Defensive Midfield
+
+",30,Italy,Chelsea FC
+Dominic Calvert-Lewin ,45.0,"
+
+
+ 
+
+Dominic Calvert-Lewin 
+
+
+Centre-Forward
+
+",24,England,Everton FC
+Wilfried Zaha ,45.0,"
+
+
+ 
+
+Wilfried Zaha 
+
+
+Left Winger
+
+",29,Cote d'Ivoire,Crystal Palace
+Reece James ,45.0,"
+
+
+ 
+
+Reece James 
+
+
+Right-Back
+
+",22,England,Chelsea FC
+Mateo Kovacic ,45.0,"
+
+
+ 
+
+Mateo Kovacic 
+
+
+Central Midfield
+
+",27,Croatia,Chelsea FC
+Caglar Söyüncü ,45.0,"
+
+
+ 
+
+Caglar Söyüncü 
+
+
+Centre-Back
+
+",25,Turkey,Leicester City
+Diogo Jota ,45.0,"
+
+
+ 
+
+Diogo Jota 
+
+
+Left Winger
+
+",25,Portugal,Liverpool FC
+Cristiano Ronaldo ,45.0,"
+
+
+ 
+
+Cristiano Ronaldo 
+
+
+Centre-Forward
+
+",36,Portugal,Manchester United
+Tanguy Ndombélé ,45.0,"
+
+
+ 
+
+Tanguy Ndombélé 
+
+
+Central Midfield
+
+",24,France,Tottenham Hotspur
+Aymeric Laporte ,45.0,"
+
+
+ 
+
+Aymeric Laporte 
+
+
+Centre-Back
+
+",27,Spain,Manchester City
+Rúben Neves ,42.0,"
+
+
+ 
+
+Rúben Neves 
+
+
+Defensive Midfield
+
+",24,Portugal,Wolverhampton Wanderers
+Luke Shaw ,42.0,"
+
+
+ 
+
+Luke Shaw 
+
+
+Left-Back
+
+",26,England,Manchester United
+Riyad Mahrez ,42.0,"
+
+
+ 
+
+Riyad Mahrez 
+
+
+Right Winger
+
+",30,Algeria,Manchester City
+Tomas Soucek ,42.0,"
+
+
+ 
+
+Tomas Soucek 
+
+
+Defensive Midfield
+
+",26,Czech Republic,West Ham United
+Pierre-Emile Höjbjerg ,40.0,"
+
+
+ 
+
+Pierre-Emile Höjbjerg 
+
+
+Central Midfield
+
+",26,Denmark,Tottenham Hotspur
+Martin Ødegaard ,40.0,"
+
+
+ 
+
+Martin Ødegaard 
+
+
+Attacking Midfield
+
+",23,Norway,Arsenal FC
+Roberto Firmino ,40.0,"
+
+
+ 
+
+Roberto Firmino 
+
+
+Centre-Forward
+
+",30,Brazil,Liverpool FC
+Ben White ,40.0,"
+
+
+ 
+
+Ben White 
+
+
+Centre-Back
+
+",24,England,Arsenal FC
+Thomas Partey ,40.0,"
+
+
+ 
+
+Thomas Partey 
+
+
+Defensive Midfield
+
+",28,Ghana,Arsenal FC
+Aaron Wan-Bissaka ,40.0,"
+
+
+ 
+
+Aaron Wan-Bissaka 
+
+
+Right-Back
+
+",24,England,Manchester United
+Saúl Ñíguez ,40.0,"
+
+
+ 
+
+Saúl Ñíguez 
+
+
+Central Midfield
+
+",27,Spain,Chelsea FC
+Wesley Fofana ,40.0,"
+
+
+ 
+
+Wesley Fofana 
+
+
+Centre-Back
+
+",21,France,Leicester City
+Kalvin Phillips ,40.0,"
+
+
+ 
+
+Kalvin Phillips 
+
+
+Defensive Midfield
+
+",26,England,Leeds United
+Ilkay Gündogan ,40.0,"
+
+
+ 
+
+Ilkay Gündogan 
+
+
+Central Midfield
+
+",31,Germany,Manchester City
+Ben Chilwell ,38.0,"
+
+
+ 
+
+Ben Chilwell 
+
+
+Left-Back
+
+",24,England,Chelsea FC
+Hakim Ziyech ,38.0,"
+
+
+ 
+
+Hakim Ziyech 
+
+
+Attacking Midfield
+
+",28,Morocco,Chelsea FC
+Emiliano Martínez ,35.0,"
+
+
+ 
+
+Emiliano Martínez 
+
+
+Goalkeeper
+
+",29,Argentina,Aston Villa
+Cristian Romero ,35.0,"
+
+
+ 
+
+Cristian Romero 
+
+
+Centre-Back
+
+",23,Argentina,Tottenham Hotspur
+Harvey Barnes ,35.0,"
+
+
+ 
+
+Harvey Barnes 
+
+
+Left Midfield
+
+",24,England,Leicester City
+Leon Bailey ,35.0,"
+
+
+ 
+
+Leon Bailey 
+
+
+Left Winger
+
+",24,Jamaica,Aston Villa
+Andreas Christensen ,35.0,"
+
+
+ 
+
+Andreas Christensen 
+
+
+Centre-Back
+
+",25,Denmark,Chelsea FC
+Anthony Martial ,35.0,"
+
+
+ 
+
+Anthony Martial 
+
+
+Centre-Forward
+
+",26,France,Manchester United
+Emiliano Buendía ,35.0,"
+
+
+ 
+
+Emiliano Buendía 
+
+
+Right Winger
+
+",24,Argentina,Aston Villa
+Pedro Neto ,35.0,"
+
+
+ 
+
+Pedro Neto 
+
+
+Left Winger
+
+",21,Portugal,Wolverhampton Wanderers
+Ibrahima Konaté ,35.0,"
+
+
+ 
+
+Ibrahima Konaté 
+
+
+Centre-Back
+
+",22,France,Liverpool FC
+Lucas Digne ,35.0,"
+
+
+ 
+
+Lucas Digne 
+
+
+Left-Back
+
+",28,France,Everton FC
+Nicolas Pépé ,35.0,"
+
+
+ 
+
+Nicolas Pépé 
+
+
+Right Winger
+
+",26,Cote d'Ivoire,Arsenal FC
+Douglas Luiz ,35.0,"
+
+
+ 
+
+Douglas Luiz 
+
+
+Defensive Midfield
+
+",23,Brazil,Aston Villa
+Antonio Rüdiger ,35.0,"
+
+
+ 
+
+Antonio Rüdiger 
+
+
+Centre-Back
+
+",28,Germany,Chelsea FC
+Scott McTominay ,35.0,"
+
+
+ 
+
+Scott McTominay 
+
+
+Defensive Midfield
+
+",25,Scotland,Manchester United
+Kieran Tierney ,32.0,"
+
+
+ 
+
+Kieran Tierney 
+
+
+Left-Back
+
+",24,Scotland,Arsenal FC
+Nathan Aké ,32.0,"
+
+
+ 
+
+Nathan Aké 
+
+
+Centre-Back
+
+",26,Netherlands,Manchester City
+Callum Hudson-Odoi ,32.0,"
+
+
+ 
+
+Callum Hudson-Odoi 
+
+
+Right Winger
+
+",21,England,Chelsea FC
+Kurt Zouma ,32.0,"
+
+
+ 
+
+Kurt Zouma 
+
+
+Centre-Back
+
+",27,France,West Ham United
+Raphinha ,32.0,"
+
+
+ 
+
+Raphinha 
+
+
+Right Winger
+
+",25,Brazil,Leeds United
+Ivan Toney ,32.0,"
+
+
+ 
+
+Ivan Toney 
+
+
+Centre-Forward
+
+",25,England,Brentford FC
+Davinson Sánchez ,32.0,"
+
+
+ 
+
+Davinson Sánchez 
+
+
+Centre-Back
+
+",25,Colombia,Tottenham Hotspur
+Ollie Watkins ,32.0,"
+
+
+ 
+
+Ollie Watkins 
+
+
+Centre-Forward
+
+",25,England,Aston Villa
+James Ward-Prowse ,32.0,"
+
+
+ 
+
+James Ward-Prowse 
+
+
+Central Midfield
+
+",27,England,Southampton FC
+Naby Keïta ,32.0,"
+
+
+ 
+
+Naby Keïta 
+
+
+Central Midfield
+
+",26,Guinea,Liverpool FC
+Curtis Jones ,30.0,"
+
+
+ 
+
+Curtis Jones 
+
+
+Central Midfield
+
+",20,England,Liverpool FC
+Bryan Gil ,30.0,"
+
+
+ 
+
+Bryan Gil 
+
+
+Left Winger
+
+",20,Spain,Tottenham Hotspur
+Nikola Vlasic ,30.0,"
+
+
+ 
+
+Nikola Vlasic 
+
+
+Attacking Midfield
+
+",24,Croatia,West Ham United
+Edouard Mendy ,30.0,"
+
+
+ 
+
+Edouard Mendy 
+
+
+Goalkeeper
+
+",29,Senegal,Chelsea FC
+Ricardo Pereira ,30.0,"
+
+
+ 
+
+Ricardo Pereira 
+
+
+Right-Back
+
+",28,Portugal,Leicester City
+John Stones ,30.0,"
+
+
+ 
+
+John Stones 
+
+
+Centre-Back
+
+",27,England,Manchester City
+Jarrod Bowen ,30.0,"
+
+
+ 
+
+Jarrod Bowen 
+
+
+Right Winger
+
+",25,England,West Ham United
+Leander Dendoncker ,30.0,"
+
+
+ 
+
+Leander Dendoncker 
+
+
+Defensive Midfield
+
+",26,Belgium,Wolverhampton Wanderers
+Tyrone Mings ,30.0,"
+
+
+ 
+
+Tyrone Mings 
+
+
+Centre-Back
+
+",28,England,Aston Villa
+Allan Saint-Maximin ,30.0,"
+
+
+ 
+
+Allan Saint-Maximin 
+
+
+Left Winger
+
+",24,France,Newcastle United
+Adama Traoré ,30.0,"
+
+
+ 
+
+Adama Traoré 
+
+
+Right Winger
+
+",25,Spain,Wolverhampton Wanderers
