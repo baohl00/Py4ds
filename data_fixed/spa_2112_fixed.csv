@@ -1,0 +1,101 @@
+,Player,Market_value(m),Position,Age,Nationality,Club,League
+0,Frenkie de Jong ,90.0, Central Midfield,24,Netherlands,FC Barcelona,SPA
+1,Marcos Llorente ,80.0, Central Midfield,26,Spain,Atlético de Madrid,SPA
+2,Pedri ,80.0, Central Midfield,19,Spain,FC Barcelona,SPA
+3,Casemiro ,70.0, Defensive Midfield,29,Brazil,Real Madrid,SPA
+4,Jan Oblak ,70.0, Goalkeeper,28,Slovenia,Atlético de Madrid,SPA
+5,Mikel Oyarzabal ,70.0, Left Winger,24,Spain,Real Sociedad,SPA
+6,João Félix ,70.0, Second Striker,22,Portugal,Atlético de Madrid,SPA
+7,Federico Valverde ,65.0, Central Midfield,23,Uruguay,Real Madrid,SPA
+8,José María Giménez ,60.0, Centre-Back,26,Uruguay,Atlético de Madrid,SPA
+9,Ansu Fati ,60.0, Left Winger,19,Spain,FC Barcelona,SPA
+10,Koke ,60.0, Central Midfield,29,Spain,Atlético de Madrid,SPA
+11,Thibaut Courtois ,60.0, Goalkeeper,29,Belgium,Real Madrid,SPA
+12,Jules Koundé ,60.0, Centre-Back,23,France,Sevilla FC,SPA
+13,Eduardo Camavinga ,55.0, Central Midfield,19,France,Real Madrid,SPA
+14,Marc-André ter Stegen ,55.0, Goalkeeper,29,Germany,FC Barcelona,SPA
+15,David Alaba ,55.0, Centre-Back,29,Austria,Real Madrid,SPA
+16,Pau Torres ,50.0, Centre-Back,24,Spain,Villarreal CF,SPA
+17,Antoine Griezmann ,50.0, Second Striker,30,France,Atlético de Madrid,SPA
+18,Vinícius Júnior ,50.0, Left Winger,21,Brazil,Real Madrid,SPA
+19,Ferland Mendy ,50.0, Left-Back,26,France,Real Madrid,SPA
+20,Ousmane Dembélé ,50.0, Right Winger,24,France,FC Barcelona,SPA
+21,Memphis Depay ,45.0, Centre-Forward,27,Netherlands,FC Barcelona,SPA
+22,Diego Carlos ,45.0, Centre-Back,28,Brazil,Sevilla FC,SPA
+23,Youssef En-Nesyri ,40.0, Centre-Forward,24,Morocco,Sevilla FC,SPA
+24,Rodrigo de Paul ,40.0, Central Midfield,27,Argentina,Atlético de Madrid,SPA
+25,Ángel Correa ,40.0, Second Striker,26,Argentina,Atlético de Madrid,SPA
+26,Carlos Soler ,40.0, Central Midfield,24,Spain,Valencia CF,SPA
+27,Éder Militão ,40.0, Centre-Back,23,Brazil,Real Madrid,SPA
+28,Mikel Merino ,40.0, Central Midfield,25,Spain,Real Sociedad,SPA
+29,Yannick Carrasco ,40.0, Left Winger,28,Belgium,Atlético de Madrid,SPA
+30,Alexander Isak ,40.0, Centre-Forward,22,Sweden,Real Sociedad,SPA
+31,Gerard Moreno ,40.0, Centre-Forward,29,Spain,Villarreal CF,SPA
+32,Thomas Lemar ,40.0, Attacking Midfield,26,France,Atlético de Madrid,SPA
+33,José Gayà ,35.0, Left-Back,26,Spain,Valencia CF,SPA
+34,Mario Hermoso ,35.0, Centre-Back,26,Spain,Atlético de Madrid,SPA
+35,Rodrygo ,35.0, Right Winger,20,Brazil,Real Madrid,SPA
+36,Marco Asensio ,35.0, Right Winger,25,Spain,Real Madrid,SPA
+37,Lucas Ocampos ,30.0, Left Winger,27,Argentina,Sevilla FC,SPA
+38,Matheus Cunha ,30.0, Centre-Forward,22,Brazil,Atlético de Madrid,SPA
+39,Sergiño Dest ,30.0, Right-Back,21,United States,FC Barcelona,SPA
+40,Toni Kroos ,30.0, Central Midfield,31,Germany,Real Madrid,SPA
+41,Yéremy Pino ,30.0, Right Winger,19,Spain,Villarreal CF,SPA
+42,Joan Jordán ,30.0, Central Midfield,27,Spain,Sevilla FC,SPA
+43,Iñaki Williams ,25.0, Centre-Forward,27,Spain,Athletic Bilbao,SPA
+44,Robin Le Normand ,25.0, Centre-Back,25,France,Real Sociedad,SPA
+45,Iñigo Martínez ,25.0, Centre-Back,30,Spain,Athletic Bilbao,SPA
+46,Renan Lodi ,25.0, Left-Back,23,Brazil,Atlético de Madrid,SPA
+47,Gonçalo Guedes ,25.0, Left Winger,25,Portugal,Valencia CF,SPA
+48,Eden Hazard ,25.0, Left Winger,30,Belgium,Real Madrid,SPA
+49,Ronald Araújo ,25.0, Centre-Back,22,Uruguay,FC Barcelona,SPA
+50,Karim Benzema ,25.0, Centre-Forward,34,France,Real Madrid,SPA
+51,Maxi Gómez ,25.0, Centre-Forward,25,Uruguay,Valencia CF,SPA
+52,Stefan Savic ,25.0, Centre-Back,30,Montenegro,Atlético de Madrid,SPA
+53,Nabil Fekir ,25.0, Attacking Midfield,28,France,Real Betis Balompié,SPA
+54,Gavi ,25.0, Central Midfield,17,Spain,FC Barcelona,SPA
+55,Arnaut Danjuma ,25.0, Left Winger,24,Netherlands,Villarreal CF,SPA
+56,Daniel Carvajal ,25.0, Right-Back,29,Spain,Real Madrid,SPA
+57,Guido Rodríguez ,22.0, Defensive Midfield,27,Argentina,Real Betis Balompié,SPA
+58,Dani Ceballos ,20.0, Central Midfield,25,Spain,Real Madrid,SPA
+59,Unai Simón ,20.0, Goalkeeper,24,Spain,Athletic Bilbao,SPA
+60,Igor Zubeldia ,20.0, Centre-Back,24,Spain,Real Sociedad,SPA
+61,Samuel Chukwueze ,20.0, Right Winger,22,Nigeria,Villarreal CF,SPA
+62,Martín Zubimendi ,20.0, Defensive Midfield,22,Spain,Real Sociedad,SPA
+63,Héctor Bellerín ,20.0, Right-Back,26,Spain,Real Betis Balompié,SPA
+64,Philippe Coutinho ,20.0, Attacking Midfield,29,Brazil,FC Barcelona,SPA
+65,Erik Lamela ,20.0, Right Winger,29,Argentina,Sevilla FC,SPA
+66,Álex Remiro ,20.0, Goalkeeper,26,Spain,Real Sociedad,SPA
+67,Kieran Trippier ,20.0, Right-Back,31,England,Atlético de Madrid,SPA
+68,Luka Jovic ,20.0, Centre-Forward,23,Serbia,Real Madrid,SPA
+69,Yeray Álvarez ,20.0, Centre-Back,26,Spain,Athletic Bilbao,SPA
+70,Eric García ,20.0, Centre-Back,20,Spain,FC Barcelona,SPA
+71,Sergio Canales ,20.0, Attacking Midfield,30,Spain,Real Betis Balompié,SPA
+72,Mauro Arambarri ,20.0, Central Midfield,26,Uruguay,Getafe CF,SPA
+73,Portu ,20.0, Right Winger,29,Spain,Real Sociedad,SPA
+74,Alfonso Pedraza ,20.0, Left-Back,25,Spain,Villarreal CF,SPA
+75,Clément Lenglet ,18.0, Centre-Back,26,France,FC Barcelona,SPA
+76,Renato Tapia ,18.0, Defensive Midfield,26,Peru,Celta de Vigo,SPA
+77,Bono ,18.0, Goalkeeper,30,Morocco,Sevilla FC,SPA
+78,Yangel Herrera ,18.0, Central Midfield,23,Venezuela,RCD Espanyol Barcelona,SPA
+79,Djené ,18.0, Centre-Back,29,Togo,Getafe CF,SPA
+80,Suso ,18.0, Right Winger,28,Spain,Sevilla FC,SPA
+81,Willian José ,18.0, Centre-Forward,30,Brazil,Real Betis Balompié,SPA
+82,Aritz Elustondo ,18.0, Centre-Back,27,Spain,Real Sociedad,SPA
+83,Marcos Acuña ,18.0, Left-Back,30,Argentina,Sevilla FC,SPA
+84,Gonzalo Montiel ,17.0, Right-Back,24,Argentina,Sevilla FC,SPA
+85,Rafa Mir ,16.0, Centre-Forward,24,Spain,Sevilla FC,SPA
+86,Alexander Sörloth ,16.0, Centre-Forward,26,Norway,Real Sociedad,SPA
+87,Luis Suárez ,15.0, Centre-Forward,34,Uruguay,Atlético de Madrid,SPA
+88,Ander Barrenetxea ,15.0, Left Winger,19,Spain,Real Sociedad,SPA
+89,Óscar Mingueza ,15.0, Centre-Back,22,Spain,FC Barcelona,SPA
+90,Lucas Vázquez ,15.0, Right Winger,30,Spain,Real Madrid,SPA
+91,Santi Mina ,15.0, Centre-Forward,26,Spain,Celta de Vigo,SPA
+92,William Carvalho ,15.0, Defensive Midfield,29,Portugal,Real Betis Balompié,SPA
+93,Riqui Puig ,15.0, Central Midfield,22,Spain,FC Barcelona,SPA
+94,Gabriel Paulista ,15.0, Centre-Back,31,Brazil,Valencia CF,SPA
+95,Paco Alcácer ,15.0, Centre-Forward,28,Spain,Villarreal CF,SPA
+96,Geoffrey Kondogbia ,15.0, Defensive Midfield,28,Central African Republic,Atlético de Madrid,SPA
+97,Unai Núñez ,15.0, Centre-Back,24,Spain,Athletic Bilbao,SPA
+98,Nemanja Maksimovic ,15.0, Defensive Midfield,26,Serbia,Getafe CF,SPA
+99,Yunus Musah ,15.0, Right Winger,19,United States,Valencia CF,SPA
