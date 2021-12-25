@@ -6,4 +6,11 @@ _Nội dung:_ Lưu link các file cần thiết trong trường hợp chưa uplo
 
 _Các case cần xử lý:_
 * Các đội bóng ở Anh có giá trị hơn, được đầu tư hơn, lịch sử hình thành nên thu hút hơn so với các giải khác. (ví dụ Pháp) 
-* Xem giải bóng đá ở nước nào có nhiều clb nổi tiếng dễ nhớ đến khi nhắc đến
+* Xem giải bóng đá ở nước nào có nhiều clb nổi tiếng dễ nhớ đến khi nhắc đến.
+* Scatter plot trên bản đồ thế giới về quốc tịch cầu thủ.
+
+
+_Phân công:_
+* Trọng: crawl, clean data + xử lý ảnh, plot
+* Vy: visual, slides
+* Bảo: git, visual
