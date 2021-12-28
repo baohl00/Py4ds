@@ -5,7 +5,7 @@ _Nội dung:_ Lưu link các file cần thiết trong trường hợp chưa uplo
 * Slide: [Thuyết trình](https://docs.google.com/presentation/d/1uTWaMQtzJ-tMB7H2wqCgfPUPkXixia89wESknU7tt2g/edit#slide=id.gc04041e828_0_574).
 
 _Xử lý web chặn robot crawl data:_
-* [Link HD](https://stackoverflow.com/questions/27652543/how-to-use-python-requests-to-fake-a-browser-visit-a-k-a-and-generate-user-agent)
+* [Link hướng dẫn](https://stackoverflow.com/questions/27652543/how-to-use-python-requests-to-fake-a-browser-visit-a-k-a-and-generate-user-agent)
 
 _Các case cần xử lý:_
 * Các đội bóng ở Anh có giá trị hơn, được đầu tư hơn, lịch sử hình thành nên thu hút hơn so với các giải khác. (ví dụ Pháp) 
