@@ -51,24 +51,24 @@ def crawl_data(url):
 
 #PREMIER_LEAGUE
 url ='https://www.transfermarkt.com/premier-league/marktwerte/wettbewerb/GB1/ajax/yw1/page/'
-pd.DataFrame(crawl_data(url)).to_csv('eng_2012.csv', index = False)
+pd.DataFrame(crawl_data(url)).to_csv('eng_2012_og.csv', index = False)
 
 #LALIGA
 
 url = 'https://www.transfermarkt.com/jumplist/marktwerte/wettbewerb/ES1/ajax/yw1/page/'
-pd.DataFrame(crawl_data(url)).to_csv('spa_2012.csv', index = False)
+pd.DataFrame(crawl_data(url)).to_csv('spa_2012_og.csv', index = False)
 
 #SERIE_A
 
 url = 'https://www.transfermarkt.com/serie-a/marktwerte/wettbewerb/IT1/page/'
-pd.DataFrame(crawl_data(url)).to_csv('ita_2012.csv', index = False)
+pd.DataFrame(crawl_data(url)).to_csv('ita_2012_og.csv', index = False)
 
 #BUNDESLIGA
 
 url = 'https://www.transfermarkt.com/bundesliga/marktwerte/wettbewerb/L1/page/'
-pd.DataFrame(crawl_data(url)).to_csv('ger_2012.csv', index = False)
+pd.DataFrame(crawl_data(url)).to_csv('ger_2012_og.csv', index = False)
 
 #LIGUE_1
 
 url = 'https://www.transfermarkt.com/ligue-1/marktwerte/wettbewerb/FR1/page/'
-pd.DataFrame(crawl_data(url)).to_csv('fra_2012.csv', index = False)
+pd.DataFrame(crawl_data(url)).to_csv('fra_2012_og.csv', index = False)
