@@ -3,7 +3,7 @@ _Nội dung:_ Lưu link các file cần thiết trong trường hợp chưa uplo
 * Nháp: xử lý 'Position' và plot thử data: [Position preprocessing](https://colab.research.google.com/drive/1_6gL7Nxj00hsap4ZnHcZoH7x3iQCWdKB?usp=sharing).  
 * Plot data vui vẻ : [Plot_data](https://colab.research.google.com/drive/1edK1dhLnslY9KJ1TwIMyhboDrWVMNQGC?usp=sharing)
 * Slide: [Thuyết trình](https://docs.google.com/presentation/d/1uTWaMQtzJ-tMB7H2wqCgfPUPkXixia89wESknU7tt2g/edit#slide=id.gc04041e828_0_574).  
-* Age + Nationality (Vy): 
+* Age + Nationality (Vy): [Age + Nationality](https://colab.research.google.com/drive/14OLj-OqREBRD6_LpE-rA2nWQ5_e2CUk7?usp=sharing)
 * Position + Club (Bảo): [Position + Club](https://colab.research.google.com/drive/163XVp1PogXYQCZ7XpOVJIay3VogUvd3V?usp=sharing)
 
 _Xử lý web chặn robot crawl data:_
