@@ -12,11 +12,11 @@ _Xử lý web chặn robot crawl data:_
 _Các case cần xử lý:_
 * Các đội bóng ở Anh có giá trị hơn, được đầu tư hơn, lịch sử hình thành nên thu hút hơn so với các giải khác. (ví dụ Pháp) 
 * Xem giải bóng đá ở nước nào có nhiều clb nổi tiếng dễ nhớ đến khi nhắc đến.**[DONE]** 
-* Scatter plot trên bản đồ thế giới về quốc tịch cầu thủ. **[đang làm]**
+* Scatter plot trên bản đồ thế giới về quốc tịch cầu thủ. **[DONE]**
 * Những đội bóng có nhiều cầu thủ giá trị. **[DONE]** 
 * Vẽ tứ phân vị, boxplot cho market value và age của các quốc gia. **[DONE]** 
 * Phân tích những quốc gia ít cầu thủ trong 5 giải. Xem những cầu thủ ở nước nhỏ chọn nơi nào để phát triển.
-* So sánh giá trị của từng vị trí ở mỗi giải quốc gia.
+* So sánh giá trị của từng vị trí ở mỗi giải quốc gia. **[Đang làm]**
 * Chia nhỏ age ví dụ: $<23$ để khai thác xem nước nào chiếm nhiều cầu thủ trẻ.
 * CỐ GẮNG KẾT HỢP NHIỀU BIỂU ĐỒ VỚI NHAU!
 
