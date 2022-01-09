@@ -16,7 +16,7 @@ _Các case cần xử lý:_
 * Vẽ tứ phân vị, boxplot cho market value và age của các quốc gia. **[DONE]** 
 * Phân tích những quốc gia ít cầu thủ trong 5 giải. Xem những cầu thủ ở nước nhỏ chọn nơi nào để phát triển. **[DONE]** 
 * Giá trị cầu thủ và số cầu thủ theo quốc gia. **[DONE]** **2 plots**
-* Chia nhỏ age ví dụ: $<23$ để khai thác xem nước nào chiếm nhiều cầu thủ trẻ.
+* Chia nhỏ age ví dụ: $<23$ để khai thác xem nước nào chiếm nhiều cầu thủ trẻ. **[DONE]** 
 * CỐ GẮNG KẾT HỢP NHIỀU BIỂU ĐỒ VỚI NHAU!
 
 _Phân công:_
