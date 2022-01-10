@@ -4,7 +4,7 @@ _Nội dung:_ Lưu link các file cần thiết trong trường hợp chưa uplo
 * Slide: [Thuyết trình](https://docs.google.com/presentation/d/1uTWaMQtzJ-tMB7H2wqCgfPUPkXixia89wESknU7tt2g/edit#slide=id.gc04041e828_0_574).  
 * Age + Nationality (Vy): [Age + Nationality](https://colab.research.google.com/drive/14OLj-OqREBRD6_LpE-rA2nWQ5_e2CUk7?usp=sharing)
 * Position + Club (Bảo & Trọng): [Position + Club](https://colab.research.google.com/drive/1edK1dhLnslY9KJ1TwIMyhboDrWVMNQGC?usp=sharing)
-* Báo cáo: [Báo Cáo](https://colab.research.google.com/drive/1U5Nt-T5eR3tP-Zohmo7vS2GgJB-FJ1JJ?usp=sharing)
+* Báo cáo: [Báo cáo](https://colab.research.google.com/drive/1U5Nt-T5eR3tP-Zohmo7vS2GgJB-FJ1JJ?usp=sharing)
 
 _Xử lý web chặn robot crawl data:_
 * [Link hướng dẫn](https://stackoverflow.com/questions/27652543/how-to-use-python-requests-to-fake-a-browser-visit-a-k-a-and-generate-user-agent)
