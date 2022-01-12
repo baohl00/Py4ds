@@ -25,7 +25,7 @@ _Phân công:_
 * Vy: visual, slides
 * Bảo: git, visual
 
-_Những thông tin trên file **Báo cáo**_
+_Những thông tin trên file **Báo cáo**_  
 Age + Nationality
 -----------------
 1. Phân tích quốc tịch cầu thủ trong 5 giải (bar)
