@@ -24,3 +24,25 @@ _Phân công:_
 * Trọng: crawl, clean data + xử lý ảnh, plot
 * Vy: visual, slides
 * Bảo: git, visual
+
+_Những thông tin trên file **Báo cáo**_
+Age + Nationality
+-----------------
+1. Phân tích quốc tịch cầu thủ trong 5 giải (bar)
+2. % độ tuổi của các cầu thủ (bar)
+3. So sánh % các cầu thủ theo từng nhóm tuổi (bar - subplot)
+
+Position + Club
+-----------------
+4. Số cầu thủ trong top 100 theo từng CLB ở mỗi giải quốc gia (bar)
+5. Số cầu thủ theo từng độ tuổi (histogram + boxplot)
+6. Cầu thủ có giá trị cao nhất theo từng quốc gia (scatter + rug)
+
+Py4ds_draft
+-----------------
+7. Số lượng các cầu thủ từng vị trí (bar ngang)
+8. Ở mỗi giải đấu, số lượng các cầu thủ từng vị trí (bar ngang)
+9. Số cầu thủ của từng quốc gia (bubble map)
+10. Tổng giá trị các cầu thủ của mỗi quốc gia (bar)
+11. Số cầu thủ trong top 100 theo từng CLB ở mỗi giải quốc gia (scatter)
+12. Top 10 Market Value, top 10 number of players by nationality (bar)
