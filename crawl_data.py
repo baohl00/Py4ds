@@ -53,6 +53,9 @@ def crawl_data(url):
                 count= count+1
     return dict_tr
 
+from datetime import date
+today = str(date.today()).replace('-','_')
+
 #PREMIER_LEAGUE
 url ='https://www.transfermarkt.com/premier-league/marktwerte/wettbewerb/GB1/ajax/yw1/page/'
 pd.DataFrame(crawl_data(url)).to_csv(today+'_eng.csv', index = False)
