@@ -15,6 +15,7 @@ def crawl_data(url):
     dict_tr['Age']=[]
     dict_tr['Nationality'] =[]
     dict_tr['Club']=[]
+    index = -1
     for idx in range(1,5):
         path_url=join(url,str(idx))
         doc = doc_url(path_url)
@@ -26,9 +27,12 @@ def crawl_data(url):
             else:dict_tr['Market_value(m)'].append(float(element.get_text().replace('€','').replace('m','')))
             i=i+1
         elements=doc.find(id="yw1").find("table", {"class":"items"}).find_all('table',{"class": "inline-table"})
-        for element in elements:
-            dict_tr['Position'].append(element.get_text())
         
+        for element in elements:
+            index =index + 1
+            tp=dict_tr['Player'][index]
+            dict_tr['Position'].append(element.get_text().replace('\n','').replace(tp,''))
+
         elements=doc.find(id="yw1").find("table", {"class":"items"}).find("tbody")
         temp2=elements.find_all("td",{"class":"zentriert"})
         count = 0
