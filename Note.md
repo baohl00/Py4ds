@@ -6,8 +6,6 @@ _Nội dung:_ Lưu link các file cần thiết trong trường hợp chưa uplo
 * Position + Club (Bảo & Trọng): [Position + Club](https://colab.research.google.com/drive/1edK1dhLnslY9KJ1TwIMyhboDrWVMNQGC?usp=sharing)
 * Báo cáo: [Báo cáo](https://colab.research.google.com/drive/1U5Nt-T5eR3tP-Zohmo7vS2GgJB-FJ1JJ?usp=sharing)
 
-_Xử lý web chặn robot crawl data:_
-* [Link hướng dẫn](https://stackoverflow.com/questions/27652543/how-to-use-python-requests-to-fake-a-browser-visit-a-k-a-and-generate-user-agent)
 
 _Các case cần xử lý:_
 * Các đội bóng ở Anh có giá trị hơn, được đầu tư hơn, lịch sử hình thành nên thu hút hơn so với các giải khác. (ví dụ Pháp) 
