@@ -1,0 +1,101 @@
+Player,Market_value(m),Position,Age,Nationality,Club
+Romelu Lukaku ,100.0, Centre-Forward,28,Belgium,Chelsea FC
+Harry Kane ,100.0, Centre-Forward,28,England,Tottenham Hotspur
+Mohamed Salah ,100.0, Right Winger,29,Egypt,Liverpool FC
+Kevin De Bruyne ,90.0, Attacking Midfield,30,Belgium,Manchester City
+Bruno Fernandes ,90.0, Attacking Midfield,27,Portugal,Manchester United
+Raheem Sterling ,85.0, Left Winger,27,England,Manchester City
+Jadon Sancho ,85.0, Left Winger,21,England,Manchester United
+Marcus Rashford ,85.0, Left Winger,24,England,Manchester United
+Phil Foden ,85.0, Central Midfield,21,England,Manchester City
+Sadio Mané ,80.0, Left Winger,29,Senegal,Liverpool FC
+Jack Grealish ,80.0, Left Winger,26,England,Manchester City
+Heung-min Son ,80.0, Left Winger,29,"Korea, South",Tottenham Hotspur
+Trent Alexander-Arnold ,80.0, Right-Back,23,England,Liverpool FC
+Rúben Dias ,75.0, Centre-Back,24,Portugal,Manchester City
+Mason Mount ,75.0, Attacking Midfield,23,England,Chelsea FC
+Declan Rice ,75.0, Defensive Midfield,23,England,West Ham United
+Bernardo Silva ,75.0, Attacking Midfield,27,Portugal,Manchester City
+Rodri ,70.0, Defensive Midfield,25,Spain,Manchester City
+Kai Havertz ,70.0, Attacking Midfield,22,Germany,Chelsea FC
+Raphaël Varane ,65.0, Centre-Back,28,France,Manchester United
+Bukayo Saka ,65.0, Right Midfield,20,England,Arsenal FC
+Andrew Robertson ,65.0, Left-Back,27,Scotland,Liverpool FC
+João Cancelo ,60.0, Right-Back,27,Portugal,Manchester City
+Alisson ,60.0, Goalkeeper,29,Brazil,Liverpool FC
+Fabinho ,60.0, Defensive Midfield,28,Brazil,Liverpool FC
+Wilfred Ndidi ,60.0, Defensive Midfield,25,Nigeria,Leicester City
+Diogo Jota ,60.0, Centre-Forward,25,Portugal,Liverpool FC
+Gabriel Jesus ,60.0, Centre-Forward,24,Brazil,Manchester City
+Youri Tielemans ,55.0, Central Midfield,24,Belgium,Leicester City
+Richarlison ,55.0, Centre-Forward,24,Brazil,Everton FC
+Virgil van Dijk ,55.0, Centre-Back,30,Netherlands,Liverpool FC
+Paul Pogba ,55.0, Central Midfield,28,France,Manchester United
+Reece James ,55.0, Right-Back,22,England,Chelsea FC
+N'Golo Kanté ,50.0, Defensive Midfield,30,France,Chelsea FC
+Timo Werner ,50.0, Centre-Forward,25,Germany,Chelsea FC
+James Maddison ,50.0, Attacking Midfield,25,England,Leicester City
+Mason Greenwood ,50.0, Right Winger,20,England,Manchester United
+Ederson ,50.0, Goalkeeper,28,Brazil,Manchester City
+Harry Maguire ,48.0, Centre-Back,28,England,Manchester United
+Jorginho ,45.0, Defensive Midfield,30,Italy,Chelsea FC
+Dominic Calvert-Lewin ,45.0, Centre-Forward,24,England,Everton FC
+Aymeric Laporte ,45.0, Centre-Back,27,Spain,Manchester City
+Tomas Soucek ,45.0, Defensive Midfield,26,Czech Republic,West Ham United
+Christian Pulisic ,45.0, Right Winger,23,United States,Chelsea FC
+Caglar Söyüncü ,45.0, Centre-Back,25,Turkey,Leicester City
+Mateo Kovacic ,45.0, Central Midfield,27,Croatia,Chelsea FC
+Luke Shaw ,42.0, Left-Back,26,England,Manchester United
+Martin Ødegaard ,42.0, Attacking Midfield,23,Norway,Arsenal FC
+Wesley Fofana ,40.0, Centre-Back,21,France,Leicester City
+Raphinha ,40.0, Right Winger,25,Brazil,Leeds United
+Wilfried Zaha ,40.0, Left Winger,29,Cote d'Ivoire,Crystal Palace
+Ben White ,40.0, Centre-Back,24,England,Arsenal FC
+Rúben Neves ,40.0, Defensive Midfield,24,Portugal,Wolverhampton Wanderers
+Thomas Partey ,40.0, Defensive Midfield,28,Ghana,Arsenal FC
+Riyad Mahrez ,40.0, Right Winger,30,Algeria,Manchester City
+Kalvin Phillips ,40.0, Defensive Midfield,26,England,Leeds United
+Pierre-Emile Höjbjerg ,40.0, Central Midfield,26,Denmark,Tottenham Hotspur
+Roberto Firmino ,38.0, Centre-Forward,30,Brazil,Liverpool FC
+Aaron Wan-Bissaka ,38.0, Right-Back,24,England,Manchester United
+Tanguy Ndombélé ,38.0, Central Midfield,25,France,Tottenham Hotspur
+Emile Smith Rowe ,38.0, Attacking Midfield,21,England,Arsenal FC
+Ben Chilwell ,38.0, Left-Back,25,England,Chelsea FC
+Ollie Watkins ,35.0, Centre-Forward,26,England,Aston Villa
+Cristian Romero ,35.0, Centre-Back,23,Argentina,Tottenham Hotspur
+Jarrod Bowen ,35.0, Right Winger,25,England,West Ham United
+Hakim Ziyech ,35.0, Attacking Midfield,28,Morocco,Chelsea FC
+Saúl Ñíguez ,35.0, Central Midfield,27,Spain,Chelsea FC
+Antonio Rüdiger ,35.0, Centre-Back,28,Germany,Chelsea FC
+Cristiano Ronaldo ,35.0, Centre-Forward,36,Portugal,Manchester United
+Pedro Neto ,35.0, Left Winger,21,Portugal,Wolverhampton Wanderers
+Ilkay Gündogan ,35.0, Central Midfield,31,Germany,Manchester City
+Douglas Luiz ,35.0, Defensive Midfield,23,Brazil,Aston Villa
+Andreas Christensen ,35.0, Centre-Back,25,Denmark,Chelsea FC
+Emiliano Buendía ,35.0, Right Winger,25,Argentina,Aston Villa
+Scott McTominay ,35.0, Defensive Midfield,25,Scotland,Manchester United
+Kurt Zouma ,32.0, Centre-Back,27,France,West Ham United
+Emiliano Martínez ,32.0, Goalkeeper,29,Argentina,Aston Villa
+Allan Saint-Maximin ,32.0, Left Winger,24,France,Newcastle United
+Leon Bailey ,32.0, Left Winger,24,Jamaica,Aston Villa
+Anthony Martial ,32.0, Centre-Forward,26,France,Manchester United
+Harvey Barnes ,32.0, Left Midfield,24,England,Leicester City
+Callum Hudson-Odoi ,32.0, Right Winger,21,England,Chelsea FC
+Kieran Tierney ,32.0, Left-Back,24,Scotland,Arsenal FC
+Tyrone Mings ,32.0, Centre-Back,28,England,Aston Villa
+Edouard Mendy ,32.0, Goalkeeper,29,Senegal,Chelsea FC
+James Ward-Prowse ,32.0, Central Midfield,27,England,Southampton FC
+Ivan Toney ,32.0, Centre-Forward,25,England,Brentford FC
+John McGinn ,30.0, Central Midfield,27,Scotland,Aston Villa
+Leander Dendoncker ,30.0, Defensive Midfield,26,Belgium,Wolverhampton Wanderers
+Nicolas Pépé ,30.0, Right Winger,26,Cote d'Ivoire,Arsenal FC
+Lucas Digne ,30.0, Left-Back,28,France,Aston Villa
+Ibrahima Konaté ,30.0, Centre-Back,22,France,Liverpool FC
+Davinson Sánchez ,30.0, Centre-Back,25,Colombia,Tottenham Hotspur
+Naby Keïta ,30.0, Central Midfield,26,Guinea,Liverpool FC
+Curtis Jones ,30.0, Central Midfield,20,England,Liverpool FC
+Sergio Reguilón ,28.0, Left-Back,25,Spain,Tottenham Hotspur
+Bryan Gil ,28.0, Left Winger,20,Spain,Tottenham Hotspur
+Boubakary Soumaré ,28.0, Defensive Midfield,22,France,Leicester City
+John Stones ,28.0, Centre-Back,27,England,Manchester City
+Timothy Castagne ,28.0, Right-Back,26,Belgium,Leicester City

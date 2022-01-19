@@ -1,0 +1,101 @@
+Player,Market_value(m),Position,Age,Nationality,Club
+Erling Haaland ,150.0, Centre-Forward,21,Norway,Borussia Dortmund
+Joshua Kimmich ,85.0, Defensive Midfield,26,Germany,Bayern Munich
+Jude Bellingham ,75.0, Central Midfield,18,England,Borussia Dortmund
+Leroy Sané ,70.0, Left Winger,26,Germany,Bayern Munich
+Leon Goretzka ,70.0, Central Midfield,26,Germany,Bayern Munich
+Alphonso Davies ,70.0, Left-Back,21,Canada,Bayern Munich
+Florian Wirtz ,70.0, Attacking Midfield,18,Germany,Bayer 04 Leverkusen
+Serge Gnabry ,70.0, Right Winger,26,Germany,Bayern Munich
+Dayot Upamecano ,55.0, Centre-Back,23,France,Bayern Munich
+Jamal Musiala ,55.0, Attacking Midfield,18,Germany,Bayern Munich
+Christopher Nkunku ,55.0, Attacking Midfield,24,France,RB Leipzig
+Kingsley Coman ,55.0, Right Winger,25,France,Bayern Munich
+Dani Olmo ,50.0, Attacking Midfield,23,Spain,RB Leipzig
+Robert Lewandowski ,50.0, Centre-Forward,33,Poland,Bayern Munich
+Lucas Hernández ,50.0, Centre-Back,25,France,Bayern Munich
+Moussa Diaby ,45.0, Left Winger,22,France,Bayer 04 Leverkusen
+Giovanni Reyna ,42.0, Attacking Midfield,19,United States,Borussia Dortmund
+Edmond Tapsoba ,40.0, Centre-Back,22,Burkina Faso,Bayer 04 Leverkusen
+Patrik Schick ,40.0, Centre-Forward,25,Czech Republic,Bayer 04 Leverkusen
+André Silva ,38.0, Centre-Forward,26,Portugal,RB Leipzig
+Raphaël Guerreiro ,35.0, Left-Back,28,Portugal,Borussia Dortmund
+Niklas Süle ,35.0, Centre-Back,26,Germany,Bayern Munich
+Manuel Akanji ,30.0, Centre-Back,26,Switzerland,Borussia Dortmund
+Angeliño ,30.0, Left Midfield,25,Spain,RB Leipzig
+Donyell Malen ,30.0, Centre-Forward,23,Netherlands,Borussia Dortmund
+Benjamin Pavard ,30.0, Right-Back,25,France,Bayern Munich
+Marcus Thuram ,28.0, Left Winger,24,France,Borussia Mönchengladbach
+Dominik Szoboszlai ,28.0, Left Winger,21,Hungary,RB Leipzig
+Evan Ndicka ,28.0, Centre-Back,22,France,Eintracht Frankfurt
+Xaver Schlager ,27.0, Central Midfield,24,Austria,VfL Wolfsburg
+Marcel Sabitzer ,27.0, Central Midfield,27,Austria,Bayern Munich
+Denis Zakaria ,27.0, Defensive Midfield,25,Switzerland,Borussia Mönchengladbach
+Konrad Laimer ,26.0, Central Midfield,24,Austria,RB Leipzig
+Julian Brandt ,25.0, Attacking Midfield,25,Germany,Borussia Dortmund
+Thomas Müller ,25.0, Second Striker,32,Germany,Bayern Munich
+Jonathan Tah ,25.0, Centre-Back,25,Germany,Bayer 04 Leverkusen
+Maxence Lacroix ,25.0, Centre-Back,21,France,VfL Wolfsburg
+Josko Gvardiol ,25.0, Centre-Back,19,Croatia,RB Leipzig
+Nordi Mukiele ,25.0, Right-Back,24,France,RB Leipzig
+Ridle Baku ,25.0, Right Winger,23,Germany,VfL Wolfsburg
+Silas Katompa Mvumpa ,25.0, Right Midfield,23,DR Congo,VfB Stuttgart
+Matthias Ginter ,24.0, Centre-Back,28,Germany,Borussia Mönchengladbach
+Amadou Haidara ,24.0, Central Midfield,23,Mali,RB Leipzig
+Nico Elvedi ,23.0, Centre-Back,25,Switzerland,Borussia Mönchengladbach
+Odilon Kossounou ,23.0, Centre-Back,21,Cote d'Ivoire,Bayer 04 Leverkusen
+Lukas Klostermann ,23.0, Right-Back,25,Germany,RB Leipzig
+Daichi Kamada ,22.0, Attacking Midfield,25,Japan,Eintracht Frankfurt
+Sasa Kalajdzic ,22.0, Centre-Forward,24,Austria,VfB Stuttgart
+Florian Neuhaus ,22.0, Central Midfield,24,Germany,Borussia Mönchengladbach
+Emre Can ,22.0, Defensive Midfield,28,Germany,Borussia Dortmund
+Ramy Bensebaini ,22.0, Left-Back,26,Algeria,Borussia Mönchengladbach
+Christoph Baumgartner ,22.0, Attacking Midfield,22,Austria,TSG 1899 Hoffenheim
+Yussuf Poulsen ,21.0, Centre-Forward,27,Denmark,RB Leipzig
+Orel Mangala ,20.0, Defensive Midfield,23,Belgium,VfB Stuttgart
+Borna Sosa ,20.0, Left-Back,23,Croatia,VfB Stuttgart
+Wout Weghorst ,20.0, Centre-Forward,29,Netherlands,VfL Wolfsburg
+Tyler Adams ,20.0, Defensive Midfield,22,United States,RB Leipzig
+Filip Kostic ,20.0, Left Midfield,29,Serbia,Eintracht Frankfurt
+Gregor Kobel ,20.0, Goalkeeper,24,Switzerland,Borussia Dortmund
+Thorgan Hazard ,20.0, Left Winger,28,Belgium,Borussia Dortmund
+Nico Schlotterbeck ,20.0, Centre-Back,22,Germany,SC Freiburg
+Ilaix Moriba ,20.0, Central Midfield,19,Guinea,RB Leipzig
+Jeremie Frimpong ,20.0, Right-Back,21,Netherlands,Bayer 04 Leverkusen
+Mohamed Simakan ,18.0, Centre-Back,21,France,RB Leipzig
+Mahmoud Dahoud ,18.0, Central Midfield,26,Germany,Borussia Dortmund
+Lukas Nmecha ,18.0, Centre-Forward,23,Germany,VfL Wolfsburg
+Andrej Kramaric ,18.0, Second Striker,30,Croatia,TSG 1899 Hoffenheim
+Moussa Niakhaté ,18.0, Centre-Back,25,France,1.FSV Mainz 05
+Djibril Sow ,17.5, Central Midfield,24,Switzerland,Eintracht Frankfurt
+Jonathan Burkardt ,17.0, Centre-Forward,21,Germany,1.FSV Mainz 05
+Rafael Borré ,17.0, Centre-Forward,26,Colombia,Eintracht Frankfurt
+Maximilian Arnold ,17.0, Central Midfield,27,Germany,VfL Wolfsburg
+Philipp Lienhart ,17.0, Centre-Back,25,Austria,SC Freiburg
+Konstantinos Mavropanos ,17.0, Centre-Back,24,Greece,VfB Stuttgart
+Emil Forsberg ,16.0, Left Winger,30,Sweden,RB Leipzig
+Florian Grillitsch ,16.0, Defensive Midfield,26,Austria,TSG 1899 Hoffenheim
+Breel Embolo ,16.0, Centre-Forward,24,Switzerland,Borussia Mönchengladbach
+Jonas Hofmann ,16.0, Right Winger,29,Germany,Borussia Mönchengladbach
+Jeremiah St. Juste ,16.0, Centre-Back,25,Netherlands,1.FSV Mainz 05
+Ihlas Bebou ,16.0, Centre-Forward,27,Togo,TSG 1899 Hoffenheim
+Felix Uduokhai ,16.0, Centre-Back,24,Germany,FC Augsburg
+Corentin Tolisso ,15.0, Central Midfield,27,France,Bayern Munich
+Youssoufa Moukoko ,15.0, Centre-Forward,17,Germany,Borussia Dortmund
+Exequiel Palacios ,15.0, Central Midfield,23,Argentina,Bayer 04 Leverkusen
+Taiwo Awoniyi ,15.0, Centre-Forward,24,Nigeria,1.FC Union Berlin
+Kouadio Koné ,15.0, Central Midfield,20,France,Borussia Mönchengladbach
+Kerem Demirbay ,15.0, Central Midfield,28,Germany,Bayer 04 Leverkusen
+Alassane Plea ,15.0, Centre-Forward,28,France,Borussia Mönchengladbach
+Koen Casteels ,14.0, Goalkeeper,29,Belgium,VfL Wolfsburg
+Dan-Axel Zagadou ,14.0, Centre-Back,22,France,Borussia Dortmund
+Manuel Neuer ,14.0, Goalkeeper,35,Germany,Bayern Munich
+Diadié Samassékou ,14.0, Defensive Midfield,26,Mali,TSG 1899 Hoffenheim
+Willi Orbán ,14.0, Centre-Back,29,Hungary,RB Leipzig
+Dodi Lukébakio ,13.0, Right Winger,24,Belgium,VfL Wolfsburg
+Marco Reus ,13.0, Attacking Midfield,32,Germany,Borussia Dortmund
+Ellyes Skhiri ,13.0, Defensive Midfield,26,Tunisia,1. FC Köln
+Martin Hinteregger ,13.0, Centre-Back,29,Austria,Eintracht Frankfurt
+Sebastiaan Bornauw ,13.0, Centre-Back,22,Belgium,VfL Wolfsburg
+Piero Hincapié ,13.0, Centre-Back,20,Ecuador,Bayer 04 Leverkusen
+Amine Adli ,12.0, Right Winger,21,France,Bayer 04 Leverkusen

@@ -1,0 +1,101 @@
+Player,Market_value(m),Position,Age,Nationality,Club
+Kylian Mbappé ,160.0, Centre-Forward,23,France,Paris Saint-Germain
+Neymar ,90.0, Left Winger,29,Brazil,Paris Saint-Germain
+Marquinhos ,75.0, Centre-Back,27,Brazil,Paris Saint-Germain
+Achraf Hakimi ,70.0, Right-Back,23,Morocco,Paris Saint-Germain
+Gianluigi Donnarumma ,65.0, Goalkeeper,22,Italy,Paris Saint-Germain
+Lionel Messi ,60.0, Right Winger,34,Argentina,Paris Saint-Germain
+Marco Verratti ,55.0, Central Midfield,29,Italy,Paris Saint-Germain
+Jonathan David ,50.0, Centre-Forward,22,Canada,LOSC Lille
+Amine Gouiri ,45.0, Centre-Forward,21,France,OGC Nice
+Aurélien Tchouaméni ,40.0, Defensive Midfield,21,France,AS Monaco
+Nuno Mendes ,40.0, Left-Back,19,Portugal,Paris Saint-Germain
+Presnel Kimpembe ,40.0, Centre-Back,26,France,Paris Saint-Germain
+Lucas Paquetá ,35.0, Attacking Midfield,24,Brazil,Olympique Lyon
+Houssem Aouar ,32.0, Central Midfield,23,France,Olympique Lyon
+Sven Botman ,30.0, Centre-Back,22,Netherlands,LOSC Lille
+Renato Sanches ,30.0, Central Midfield,24,Portugal,LOSC Lille
+Bruno Guimarães ,30.0, Defensive Midfield,24,Brazil,Olympique Lyon
+Mauro Icardi ,28.0, Centre-Forward,28,Argentina,Paris Saint-Germain
+Wissam Ben Yedder ,28.0, Centre-Forward,31,France,AS Monaco
+Benoît Badiashile ,28.0, Centre-Back,20,France,AS Monaco
+Georginio Wijnaldum ,25.0, Central Midfield,31,Netherlands,Paris Saint-Germain
+Jérémy Doku ,25.0, Right Winger,19,Belgium,Stade Rennais FC
+Aleksandr Golovin ,25.0, Attacking Midfield,25,Russia,AS Monaco
+Thilo Kehrer ,25.0, Centre-Back,25,Germany,Paris Saint-Germain
+Abdou Diallo ,25.0, Left-Back,25,Senegal,Paris Saint-Germain
+Boubacar Kamara ,25.0, Defensive Midfield,22,France,Olympique Marseille
+William Saliba ,24.0, Centre-Back,20,France,Olympique Marseille
+Kevin Volland ,22.0, Centre-Forward,29,Germany,AS Monaco
+Jonathan Bamba ,22.0, Left Winger,25,France,LOSC Lille
+Mattéo Guendouzi ,22.0, Central Midfield,22,France,Olympique Marseille
+Rayan Cherki ,20.0, Attacking Midfield,18,France,Olympique Lyon
+Jason Denayer ,20.0, Centre-Back,26,Belgium,Olympique Lyon
+Kasper Dolberg ,20.0, Centre-Forward,24,Denmark,OGC Nice
+Sofiane Diop ,20.0, Left Winger,21,France,AS Monaco
+Julian Draxler ,20.0, Left Winger,28,Germany,Paris Saint-Germain
+Pape Sarr ,20.0, Defensive Midfield,19,Senegal,FC Metz
+Kamaldeen Sulemana ,20.0, Left Winger,19,Ghana,Stade Rennais FC
+Leandro Paredes ,20.0, Defensive Midfield,27,Argentina,Paris Saint-Germain
+Cengiz Ünder ,18.0, Right Winger,24,Turkey,Olympique Marseille
+Jean-Clair Todibo ,18.0, Centre-Back,22,France,OGC Nice
+Gelson Martins ,18.0, Right Winger,26,Portugal,AS Monaco
+Gerson ,18.0, Central Midfield,24,Brazil,Olympique Marseille
+Caio Henrique ,18.0, Left-Back,24,Brazil,AS Monaco
+Gaëtan Laborde ,18.0, Centre-Forward,27,France,Stade Rennais FC
+Seko Fofana ,18.0, Central Midfield,26,Cote d'Ivoire,RC Lens
+Axel Disasi ,18.0, Centre-Back,23,France,AS Monaco
+Zeki Celik ,17.0, Right-Back,24,Turkey,LOSC Lille
+Maxence Caqueret ,17.0, Central Midfield,21,France,Olympique Lyon
+Arkadiusz Milik ,17.0, Centre-Forward,27,Poland,Olympique Marseille
+Jeff Reine-Adélaïde ,17.0, Attacking Midfield,24,France,Olympique Lyon
+Moussa Dembélé ,17.0, Centre-Forward,25,France,Olympique Lyon
+Duje Caleta-Car ,16.0, Centre-Back,25,Croatia,Olympique Marseille
+Youssouf Fofana ,16.0, Central Midfield,23,France,AS Monaco
+Ludovic Blas ,16.0, Attacking Midfield,24,France,FC Nantes
+Loïc Badé ,16.0, Centre-Back,21,France,Stade Rennais FC
+Myron Boadu ,15.0, Centre-Forward,21,Netherlands,AS Monaco
+Guillermo Maripán ,15.0, Centre-Back,27,Chile,AS Monaco
+Ludovic Ajorque ,15.0, Centre-Forward,27,France,RC Strasbourg Alsace
+Romain Faivre ,15.0, Left Midfield,23,France,Stade Brestois 29
+Calvin Stengs ,15.0, Right Winger,23,Netherlands,OGC Nice
+Karl Toko Ekambi ,15.0, Left Winger,29,Cameroon,Olympique Lyon
+Timothy Weah ,15.0, Centre-Forward,21,United States,LOSC Lille
+Benjamin André ,15.0, Defensive Midfield,31,France,LOSC Lille
+Benjamin Bourigeaud ,15.0, Central Midfield,28,France,Stade Rennais FC
+Youcef Atal ,15.0, Right-Back,25,Algeria,OGC Nice
+Krépin Diatta ,15.0, Right Winger,22,Senegal,AS Monaco
+Ángel Di María ,15.0, Right Winger,33,Argentina,Paris Saint-Germain
+Martin Terrier ,14.0, Left Winger,24,France,Stade Rennais FC
+Baptiste Santamaria ,14.0, Defensive Midfield,26,France,Stade Rennais FC
+Léo Dubois ,14.0, Right-Back,27,France,Olympique Lyon
+Emerson ,14.0, Left-Back,27,Italy,Olympique Lyon
+Danilo Pereira ,14.0, Defensive Midfield,30,Portugal,Paris Saint-Germain
+Justin Kluivert ,14.0, Left Winger,22,Netherlands,OGC Nice
+Idrissa Gueye ,13.0, Defensive Midfield,32,Senegal,Paris Saint-Germain
+Andy Delort ,13.0, Centre-Forward,30,Algeria,OGC Nice
+Lovro Majer ,13.0, Attacking Midfield,24,Croatia,Stade Rennais FC
+Ander Herrera ,12.0, Central Midfield,32,Spain,Paris Saint-Germain
+Thiago Mendes ,12.0, Defensive Midfield,29,Brazil,Olympique Lyon
+Téji Savanier ,12.0, Central Midfield,30,France,Montpellier HSC
+Angelo Fulgini ,12.0, Central Midfield,25,France,SCO Angers
+Walter Benítez ,12.0, Goalkeeper,29,Argentina,OGC Nice
+Habib Diallo ,12.0, Centre-Forward,26,Senegal,RC Strasbourg Alsace
+Arnaud Kalimuendo ,12.0, Centre-Forward,19,France,RC Lens
+Randal Kolo Muani ,12.0, Centre-Forward,23,France,FC Nantes
+Juan Bernat ,12.0, Left-Back,28,Spain,Paris Saint-Germain
+Mohamed-Ali Cho ,12.0, Centre-Forward,18,France,SCO Angers
+Anthony Lopes ,12.0, Goalkeeper,31,Portugal,Olympique Lyon
+Adrien Truffert ,11.0, Left-Back,20,France,Stade Rennais FC
+Cédric Bakambu ,11.0, Centre-Forward,30,DR Congo,Olympique Marseille
+Lucas Gourna-Douath ,10.0, Defensive Midfield,18,France,AS Saint-Étienne
+Pape Gueye ,10.0, Defensive Midfield,22,Senegal,Olympique Marseille
+Etienne Green ,10.0, Goalkeeper,21,England,AS Saint-Étienne
+Alban Lafont ,10.0, Goalkeeper,22,France,FC Nantes
+Khéphren Thuram ,10.0, Defensive Midfield,20,France,OGC Nice
+Alexis Claude-Maurice ,10.0, Attacking Midfield,23,France,OGC Nice
+Jonathan Clauss ,10.0, Right Midfield,29,France,RC Lens
+Leonardo Balerdi ,10.0, Centre-Back,22,Argentina,Olympique Marseille
+Keylor Navas ,10.0, Goalkeeper,35,Costa Rica,Paris Saint-Germain
+Pau López ,10.0, Goalkeeper,27,Spain,Olympique Marseille
+Terem Moffi ,10.0, Centre-Forward,22,Nigeria,FC Lorient

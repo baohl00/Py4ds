@@ -1,0 +1,101 @@
+Player,Market_value(m),Position,Age,Nationality,Club
+Lautaro Martínez ,80.0, Centre-Forward,24,Argentina,Inter Milan
+Sergej Milinković-Savić ,70.0, Central Midfield,26,Serbia,SS Lazio
+Nicolò Barella ,70.0, Central Midfield,24,Italy,Inter Milan
+Dusan Vlahovic ,70.0, Centre-Forward,21,Serbia,ACF Fiorentina
+Federico Chiesa ,70.0, Right Winger,24,Italy,Juventus FC
+Matthijs de Ligt ,65.0, Centre-Back,22,Netherlands,Juventus FC
+Milan Skriniar ,65.0, Centre-Back,26,Slovakia,Inter Milan
+Victor Osimhen ,60.0, Centre-Forward,23,Nigeria,SSC Napoli
+Alessandro Bastoni ,60.0, Centre-Back,22,Italy,Inter Milan
+Fabián Ruiz ,55.0, Central Midfield,25,Spain,SSC Napoli
+Paulo Dybala ,50.0, Second Striker,28,Argentina,Juventus FC
+Piotr Zielinski ,50.0, Attacking Midfield,27,Poland,SSC Napoli
+Franck Kessié ,48.0, Central Midfield,25,Cote d'Ivoire,AC Milan
+Theo Hernández ,48.0, Left-Back,24,France,AC Milan
+Kalidou Koulibaly ,45.0, Centre-Back,30,Senegal,SSC Napoli
+Fikayo Tomori ,45.0, Centre-Back,24,England,AC Milan
+Lorenzo Pellegrini ,45.0, Central Midfield,25,Italy,AS Roma
+Stefan de Vrij ,45.0, Centre-Back,29,Netherlands,Inter Milan
+Marcelo Brozovic ,40.0, Defensive Midfield,29,Croatia,Inter Milan
+Hirving Lozano ,40.0, Right Winger,26,Mexico,SSC Napoli
+Tammy Abraham ,38.0, Centre-Forward,24,England,AS Roma
+Lorenzo Insigne ,35.0, Left Winger,30,Italy,SSC Napoli
+Manuel Locatelli ,35.0, Defensive Midfield,24,Italy,Juventus FC
+Álvaro Morata ,35.0, Centre-Forward,29,Spain,Juventus FC
+Rafael Leão ,35.0, Left Winger,22,Portugal,AC Milan
+Domenico Berardi ,35.0, Right Winger,27,Italy,US Sassuolo
+Sandro Tonali ,35.0, Defensive Midfield,21,Italy,AC Milan
+Robin Gosens ,35.0, Left Midfield,27,Germany,Atalanta BC
+Hakan Calhanoglu ,35.0, Central Midfield,27,Turkey,Inter Milan
+Nicolò Zaniolo ,33.0, Right Winger,22,Italy,AS Roma
+Duván Zapata ,33.0, Centre-Forward,30,Colombia,Atalanta BC
+Luis Alberto ,32.0, Central Midfield,29,Spain,SS Lazio
+Moise Kean ,32.0, Centre-Forward,21,Italy,Juventus FC
+Joaquín Correa ,30.0, Second Striker,27,Argentina,Inter Milan
+Ismaël Bennacer ,30.0, Defensive Midfield,24,Algeria,AC Milan
+Gianluca Mancini ,30.0, Centre-Back,25,Italy,AS Roma
+Dejan Kulusevski ,30.0, Right Winger,21,Sweden,Juventus FC
+Ruslan Malinovskyi ,30.0, Attacking Midfield,28,Ukraine,Atalanta BC
+André Zambo Anguissa ,30.0, Defensive Midfield,26,Cameroon,SSC Napoli
+Jordan Veretout ,30.0, Central Midfield,28,France,AS Roma
+Ciro Immobile ,30.0, Centre-Forward,31,Italy,SS Lazio
+Andrea Belotti ,28.0, Centre-Forward,28,Italy,Torino FC
+Mario Pasalic ,28.0, Central Midfield,26,Croatia,Atalanta BC
+Merih Demiral ,28.0, Centre-Back,23,Turkey,Atalanta BC
+Matteo Politano ,27.0, Right Winger,28,Italy,SSC Napoli
+Ante Rebic ,27.0, Left Winger,28,Croatia,AC Milan
+Leonardo Spinazzola ,26.0, Left-Back,28,Italy,AS Roma
+Davide Calabria ,25.0, Right-Back,25,Italy,AC Milan
+Arthur ,25.0, Central Midfield,25,Brazil,Juventus FC
+Roger Ibañez ,25.0, Centre-Back,23,Brazil,AS Roma
+Mike Maignan ,25.0, Goalkeeper,26,France,AC Milan
+Giovanni Di Lorenzo ,25.0, Right-Back,28,Italy,SSC Napoli
+Weston McKennie ,25.0, Central Midfield,23,United States,Juventus FC
+Brahim Díaz ,25.0, Attacking Midfield,22,Spain,AC Milan
+Rodrigo Bentancur ,25.0, Central Midfield,24,Uruguay,Juventus FC
+Eljif Elmas ,24.0, Central Midfield,22,North Macedonia,SSC Napoli
+Remo Freuler ,24.0, Central Midfield,29,Switzerland,Atalanta BC
+Nicolás González ,24.0, Left Winger,23,Argentina,ACF Fiorentina
+Nikola Milenkovic ,23.0, Centre-Back,24,Serbia,ACF Fiorentina
+Amir Rrahmani ,22.0, Centre-Back,27,Kosovo,SSC Napoli
+Jonathan Ikoné ,22.0, Right Winger,23,France,ACF Fiorentina
+Berat Djimsiti ,22.0, Centre-Back,28,Albania,Atalanta BC
+Adrien Rabiot ,22.0, Central Midfield,26,France,Juventus FC
+Luis Muriel ,22.0, Centre-Forward,30,Colombia,Atalanta BC
+Musa Barrow ,20.0, Left Winger,23,The Gambia,Bologna FC 1909
+Gianluca Scamacca ,20.0, Centre-Forward,23,Italy,US Sassuolo
+Marten de Roon ,20.0, Defensive Midfield,30,Netherlands,Atalanta BC
+Giacomo Raspadori ,20.0, Centre-Forward,21,Italy,US Sassuolo
+Jérémie Boga ,20.0, Left Winger,25,Cote d'Ivoire,US Sassuolo
+Juan Musso ,20.0, Goalkeeper,27,Argentina,Atalanta BC
+Bremer ,20.0, Centre-Back,24,Brazil,Torino FC
+Alessio Romagnoli ,20.0, Centre-Back,27,Italy,AC Milan
+Alexis Saelemaekers ,20.0, Right Winger,22,Belgium,AC Milan
+Bryan Cristante ,20.0, Central Midfield,26,Italy,AS Roma
+Lucas Torreira ,20.0, Defensive Midfield,25,Uruguay,ACF Fiorentina
+João Pedro ,18.0, Second Striker,29,Brazil,Cagliari Calcio
+Matteo Pessina ,18.0, Attacking Midfield,24,Italy,Atalanta BC
+Luiz Felipe ,18.0, Centre-Back,24,Brazil,SS Lazio
+Marash Kumbulla ,18.0, Centre-Back,21,Albania,AS Roma
+Mikkel Damsgaard ,18.0, Left Winger,21,Denmark,UC Sampdoria
+Teun Koopmeiners ,18.0, Defensive Midfield,23,Netherlands,Atalanta BC
+Nahitan Nández ,18.0, Right Midfield,26,Uruguay,Cagliari Calcio
+Hamed Junior Traorè ,18.0, Attacking Midfield,21,Cote d'Ivoire,US Sassuolo
+Giovanni Simeone ,17.0, Centre-Forward,26,Argentina,Hellas Verona
+Joakim Maehle ,17.0, Right-Back,24,Denmark,Atalanta BC
+Hans Hateboer ,16.0, Right-Back,28,Netherlands,Atalanta BC
+Tiemoué Bakayoko ,16.0, Defensive Midfield,27,France,AC Milan
+Antonin Barak ,16.0, Attacking Midfield,27,Czech Republic,Hellas Verona
+Federico Dimarco ,16.0, Left-Back,24,Italy,Inter Milan
+Denzel Dumfries ,16.0, Right-Back,25,Netherlands,Inter Milan
+Andrea Pinamonti ,16.0, Centre-Forward,22,Italy,FC Empoli
+Rick Karsdorp ,15.0, Right-Back,26,Netherlands,AS Roma
+Davide Frattesi ,15.0, Central Midfield,22,Italy,US Sassuolo
+Wojciech Szczesny ,15.0, Goalkeeper,31,Poland,Juventus FC
+Danilo ,15.0, Right-Back,30,Brazil,Juventus FC
+Sérgio Oliveira ,15.0, Central Midfield,29,Portugal,AS Roma
+Ethan Ampadu ,15.0, Centre-Back,21,Wales,Venezia FC
+Mattias Svanberg ,15.0, Central Midfield,23,Sweden,Bologna FC 1909
+Dennis Praet ,15.0, Central Midfield,27,Belgium,Torino FC
+Manuel Lazzari ,15.0, Right Midfield,28,Italy,SS Lazio

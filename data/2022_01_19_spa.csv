@@ -1,0 +1,101 @@
+Player,Market_value(m),Position,Age,Nationality,Club
+Vinicius Junior ,100.0, Left Winger,21,Brazil,Real Madrid
+Pedri ,80.0, Central Midfield,19,Spain,FC Barcelona
+Frenkie de Jong ,70.0, Central Midfield,24,Netherlands,FC Barcelona
+Mikel Oyarzabal ,70.0, Left Winger,24,Spain,Real Sociedad
+Thibaut Courtois ,65.0, Goalkeeper,29,Belgium,Real Madrid
+Federico Valverde ,65.0, Central Midfield,23,Uruguay,Real Madrid
+Éder Militão ,60.0, Centre-Back,24,Brazil,Real Madrid
+Jules Koundé ,60.0, Centre-Back,23,France,Sevilla FC
+Jan Oblak ,60.0, Goalkeeper,29,Slovenia,Atlético de Madrid
+Marcos Llorente ,60.0, Central Midfield,26,Spain,Atlético de Madrid
+Ansu Fati ,60.0, Left Winger,19,Spain,FC Barcelona
+João Félix ,60.0, Second Striker,22,Portugal,Atlético de Madrid
+Casemiro ,60.0, Defensive Midfield,29,Brazil,Real Madrid
+David Alaba ,55.0, Centre-Back,29,Austria,Real Madrid
+Eduardo Camavinga ,55.0, Central Midfield,19,France,Real Madrid
+José María Giménez ,50.0, Centre-Back,26,Uruguay,Atlético de Madrid
+Antoine Griezmann ,50.0, Second Striker,30,France,Atlético de Madrid
+Mikel Merino ,50.0, Central Midfield,25,Spain,Real Sociedad
+Ferland Mendy ,50.0, Left-Back,26,France,Real Madrid
+Pau Torres ,50.0, Centre-Back,25,Spain,Villarreal CF
+Carlos Soler ,50.0, Central Midfield,25,Spain,Valencia CF
+Marc-André ter Stegen ,45.0, Goalkeeper,29,Germany,FC Barcelona
+Ferran Torres ,45.0, Right Winger,21,Spain,FC Barcelona
+Diego Carlos ,45.0, Centre-Back,28,Brazil,Sevilla FC
+Memphis Depay ,45.0, Centre-Forward,27,Netherlands,FC Barcelona
+Rodrigo de Paul ,40.0, Central Midfield,27,Argentina,Atlético de Madrid
+Arnaut Danjuma ,40.0, Left Winger,24,Netherlands,Villarreal CF
+Gerard Moreno ,40.0, Centre-Forward,29,Spain,Villarreal CF
+Koke ,40.0, Central Midfield,30,Spain,Atlético de Madrid
+Ángel Correa ,40.0, Second Striker,26,Argentina,Atlético de Madrid
+Gavi ,40.0, Central Midfield,17,Spain,FC Barcelona
+Yannick Carrasco ,40.0, Left Winger,28,Belgium,Atlético de Madrid
+Rodrygo ,40.0, Right Winger,21,Brazil,Real Madrid
+Alexander Isak ,40.0, Centre-Forward,22,Sweden,Real Sociedad
+Marco Asensio ,40.0, Right Winger,25,Spain,Real Madrid
+Youssef En-Nesyri ,40.0, Centre-Forward,24,Morocco,Sevilla FC
+José Gayà ,40.0, Left-Back,26,Spain,Valencia CF
+Thomas Lemar ,40.0, Attacking Midfield,26,France,Atlético de Madrid
+Ronald Araújo ,35.0, Centre-Back,22,Uruguay,FC Barcelona
+Matheus Cunha ,30.0, Centre-Forward,22,Brazil,Atlético de Madrid
+Yéremy Pino ,30.0, Right Winger,19,Spain,Villarreal CF
+Ousmane Dembélé ,30.0, Right Winger,24,France,FC Barcelona
+Nabil Fekir ,30.0, Attacking Midfield,28,France,Real Betis Balompié
+Mario Hermoso ,30.0, Centre-Back,26,Spain,Atlético de Madrid
+Joan Jordán ,30.0, Central Midfield,27,Spain,Sevilla FC
+Robin Le Normand ,30.0, Centre-Back,25,France,Real Sociedad
+Gonçalo Guedes ,30.0, Left Winger,25,Portugal,Valencia CF
+Lucas Ocampos ,30.0, Left Winger,27,Argentina,Sevilla FC
+Karim Benzema ,25.0, Centre-Forward,34,France,Real Madrid
+Martín Zubimendi ,25.0, Defensive Midfield,22,Spain,Real Sociedad
+Guido Rodríguez ,25.0, Defensive Midfield,27,Argentina,Real Betis Balompié
+Toni Kroos ,25.0, Central Midfield,32,Germany,Real Madrid
+Iñaki Williams ,25.0, Centre-Forward,27,Spain,Athletic Bilbao
+Iñigo Martínez ,25.0, Centre-Back,30,Spain,Athletic Bilbao
+Unai Simón ,25.0, Goalkeeper,24,Spain,Athletic Bilbao
+Álex Remiro ,22.0, Goalkeeper,26,Spain,Real Sociedad
+Tecatito Corona ,22.0, Right Winger,29,Mexico,Sevilla FC
+Renan Lodi ,20.0, Left-Back,23,Brazil,Atlético de Madrid
+Héctor Bellerín ,20.0, Right-Back,26,Spain,Real Betis Balompié
+Erik Lamela ,20.0, Right Winger,29,Argentina,Sevilla FC
+Juan Foyth ,20.0, Centre-Back,24,Argentina,Villarreal CF
+Luka Jovic ,20.0, Centre-Forward,24,Serbia,Real Madrid
+Sergio Canales ,20.0, Attacking Midfield,30,Spain,Real Betis Balompié
+Stefan Savic ,20.0, Centre-Back,31,Montenegro,Atlético de Madrid
+Aritz Elustondo ,20.0, Centre-Back,27,Spain,Real Sociedad
+Daniel Carvajal ,20.0, Right-Back,30,Spain,Real Madrid
+Samuel Chukwueze ,20.0, Right Winger,22,Nigeria,Villarreal CF
+Nico González ,20.0, Central Midfield,20,Spain,FC Barcelona
+Maxi Gómez ,20.0, Centre-Forward,25,Uruguay,Valencia CF
+Sergiño Dest ,18.0, Right-Back,21,United States,FC Barcelona
+Yangel Herrera ,18.0, Central Midfield,24,Venezuela,RCD Espanyol Barcelona
+Willian José ,18.0, Centre-Forward,30,Brazil,Real Betis Balompié
+Eric García ,18.0, Centre-Back,21,Spain,FC Barcelona
+Dani Ceballos ,18.0, Central Midfield,25,Spain,Real Madrid
+Eden Hazard ,18.0, Left Winger,31,Belgium,Real Madrid
+Gonzalo Montiel ,17.0, Right-Back,25,Argentina,Sevilla FC
+Alfonso Pedraza ,17.0, Left-Back,25,Spain,Villarreal CF
+Rafa Mir ,16.0, Centre-Forward,24,Spain,Sevilla FC
+Suso ,16.0, Right Winger,28,Spain,Sevilla FC
+Igor Zubeldia ,15.0, Centre-Back,24,Spain,Real Sociedad
+Pervis Estupiñán ,15.0, Left-Back,23,Ecuador,Villarreal CF
+Bono ,15.0, Goalkeeper,30,Morocco,Sevilla FC
+Santi Mina ,15.0, Centre-Forward,26,Spain,Celta de Vigo
+Renato Tapia ,15.0, Defensive Midfield,26,Peru,Celta de Vigo
+Geoffrey Kondogbia ,15.0, Defensive Midfield,28,Central African Republic,Atlético de Madrid
+Yeray Álvarez ,15.0, Centre-Back,26,Spain,Athletic Bilbao
+Marcos Acuña ,15.0, Left-Back,30,Argentina,Sevilla FC
+Mauro Arambarri ,15.0, Central Midfield,26,Uruguay,Getafe CF
+Portu ,15.0, Right Winger,29,Spain,Real Sociedad
+Ander Barrenetxea ,15.0, Left Winger,20,Spain,Real Sociedad
+Raúl de Tomás ,15.0, Centre-Forward,27,Spain,RCD Espanyol Barcelona
+Yunus Musah ,15.0, Right Winger,19,United States,Valencia CF
+William Carvalho ,14.0, Defensive Midfield,29,Portugal,Real Betis Balompié
+Nemanja Maksimovic ,14.0, Defensive Midfield,26,Serbia,Getafe CF
+Clément Lenglet ,14.0, Centre-Back,26,France,FC Barcelona
+Boulaye Dia ,14.0, Centre-Forward,25,Senegal,Villarreal CF
+Brais Méndez ,14.0, Right Winger,25,Spain,Celta de Vigo
+Rui Silva ,14.0, Goalkeeper,27,Portugal,Real Betis Balompié
+Adnan Januzaj ,12.0, Right Winger,26,Belgium,Real Sociedad
+Unai López ,12.0, Central Midfield,26,Spain,Rayo Vallecano
