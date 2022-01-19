@@ -1,1 +1,0 @@
-Folder chứa data gốc. Yêu cầu không chỉnh sửa trên các files này!
